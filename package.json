@@ -9,6 +9,21 @@
   "author": "andrew",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
   }
 }
